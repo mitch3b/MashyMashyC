@@ -1,0 +1,8 @@
+# NES specific
+*.o
+*.s
+!asm4c.s
+!reset.s
+
+# Other
+.DS_Store
